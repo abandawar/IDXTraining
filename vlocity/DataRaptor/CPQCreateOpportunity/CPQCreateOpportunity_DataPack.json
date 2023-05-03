@@ -3,6 +3,7 @@
     "%vlocity_namespace%__CheckFieldLevelSecurity__c": false,
     "%vlocity_namespace%__CustomInputClass__c": "",
     "%vlocity_namespace%__CustomOutputClass__c": "",
+    
     "%vlocity_namespace%__DRMapItem__c": "CPQCreateOpportunity_Mappings.json",
     "%vlocity_namespace%__DRMapName__c": "CPQCreateOpportunity",
     "%vlocity_namespace%__DeleteOnSuccess__c": false,
